@@ -1,7 +1,7 @@
 Coverage: 74%% completed system
 ## Book Library Project-
 
-This project required me to create an application that will use a CRUD Functionalty that will allow the user to manage a Book Library.
+This project was to create an application that will use a CRUD Functionalty that will allow the user to manage a Book Library.
 
 - Project Management Tools - Jira Kanban Board and Github.
 - Databases - mySQL and H2 for testing.
@@ -115,10 +115,3 @@ Visual Studios was used as a program to create the followings files
 
 Omar Zaib Mahmood
 
-## License
-
-This project is licensed under QA Training Academy - all works and codes are owned by QA Academy.
-
-## Acknowledgments
-
-The author would like to acknowledge the QA Training team for all its efforts and helps, aswell as the team members within the cohort who leading up to the project were helpful and inspiring. Moreover the author would like to thank family and friends for being supportive throughout this course, and god almighty.
